@@ -93,7 +93,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     <div class="image_container">
-                        <img src="{{ URL::to('\img\logo.png') }}" class="logo"/>
+                        <img src="{{ URL::to('\img\logo_less.png') }}" class="logo"/>
                     </div>
                 </div>
 
